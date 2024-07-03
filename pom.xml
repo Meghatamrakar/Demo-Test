@@ -19,8 +19,8 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <maven.compiler.source>${java.version}</maven.compiler.source>
         <maven.compiler.target>${java.version}</maven.compiler.target>
-		<sonar.host.url>http://13.211.81.85:9000/</sonar.host.url>
-		<sonar.login>squ_4f5e3b76f6a0ac06bb0b3162a77871263f858735</sonar.login>	
+		<sonar.host.url>http://54.79.6.115:9000/</sonar.host.url>
+		<sonar.login>squ_5f62acd34c7ef319156b56d5eb37bbe54728b3d9</sonar.login>	
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
